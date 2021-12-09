@@ -16,7 +16,7 @@ readline-sync
 
 1. Clone this repository 
     ```bash
-    git clone https://github.com/anik31/bollyquiz.git
+    git clone https://github.com/AnshumanMaity/ott-quiz-badshah.git
     ```
 2. Install the dependencies
     ```bash
